@@ -55,42 +55,52 @@ html {
     100%{transform: rotateX(0deg);}
 }
 
-@media all and (max-width: 1680px) {
+@media screen and (max-width: 1680px) {
 
-    body, input, select, textarea {
-        font-size: 11pt;
+    #container, #header, #body, #main, #footer {
+        float: none;
+        width: auto; 
+        font-size: auto;
     }
 
 }
 
-@media all and (max-width: 1280px) {
+@media screen and (max-width: 1280px) {
 
-    body, input, select, textarea {
-        font-size: 11pt;
+    #container, #header, #body, #main, #footer {
+        float: none;
+        width: auto; 
+        font-size: auto;
     }
 
 }
 
-@media all and (max-width: 980px) {
+@media screen and (max-width: 980px) {
 
-    body, input, select, textarea {
-        font-size: 12pt;
+    #container, #header, #body, #main, #footer {
+        float: none;
+        width: auto; 
+        font-size: auto;
     }
 
 }
 
-@media all and (max-width: 736px) {
+@media screen and (max-width: 736px) {
 
-    body, input, select, textarea {
-        font-size: 12pt;
+    #container, #header, #body, #main, #footer {
+        float: none;
+        width: auto; 
+        font-size: auto;
     }
 
 }
 
-@media all and (max-width: 480px) {
+@media screen and (max-width: 480px) {
 
-    body, input, select, textarea {
-        font-size: 12pt;
+    #container, #header, #body, #main, #footer {
+        float: none;
+        width: auto; 
+        font-size: auto;
     }
 
 }
