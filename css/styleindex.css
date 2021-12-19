@@ -55,7 +55,7 @@ html {
     100%{transform: rotateX(0deg);}
 }
 
-@media screen and (max-width: 1680px) {
+@media all and (max-width: 1680px) {
 
     body, input, select, textarea {
         font-size: 11pt;
@@ -63,7 +63,7 @@ html {
 
 }
 
-@media screen and (max-width: 1280px) {
+@media all and (max-width: 1280px) {
 
     body, input, select, textarea {
         font-size: 11pt;
@@ -71,7 +71,7 @@ html {
 
 }
 
-@media screen and (max-width: 980px) {
+@media all and (max-width: 980px) {
 
     body, input, select, textarea {
         font-size: 12pt;
@@ -79,7 +79,7 @@ html {
 
 }
 
-@media screen and (max-width: 736px) {
+@media all and (max-width: 736px) {
 
     body, input, select, textarea {
         font-size: 12pt;
@@ -87,7 +87,7 @@ html {
 
 }
 
-@media screen and (max-width: 480px) {
+@media all and (max-width: 480px) {
 
     body, input, select, textarea {
         font-size: 12pt;
